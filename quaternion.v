@@ -9,7 +9,7 @@ From mathcomp.analysis Require Import forms.
 (*                            Quaternions                                     *)
 (*                                                                            *)
 (* This file develops the theory of quaternions. It defines the type of       *)
-(* quaternions and the type of unit quaternions and show that quaternions     *)
+(* quaternions and the type of unit quaternions and shows that quaternions    *)
 (* form a ZmodType, a RingType, a LmodType, a UnitRingType. It also defines   *)
 (* polar coordinates and dual quaternions.                                    *)
 (*                                                                            *)
